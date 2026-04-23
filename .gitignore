@@ -1,0 +1,11 @@
+# full training dataset
+plantvillage dataset/
+
+# python junk
+__pycache__/
+*.pyc
+make_samples.py
+src/test_disease_detector.py
+src/disease_detector.py
+
+.DS_Store
